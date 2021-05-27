@@ -16,6 +16,7 @@
 * nessie_provider.operatprs.merge - runs pynessie to execute a merge
 
 ## Example job
+See `dags/dummy_dag.py`
 
 * Create branch
 * run spark jobs to add two tables to branch
